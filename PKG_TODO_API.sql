@@ -1,0 +1,111 @@
+CREATE OR REPLACE PACKAGE PBLHO.PKG_TODO_API
+AS
+PROCEDURE P_Create_TodoItem(P_ITEMNAME IN VARCHAR2, P_ISCOMPLETE IN CHAR, O_STATUS OUT CHAR);
+PROCEDURE P_Update_TodoItem(P_ITEMID IN NUMBER,P_ITEMNAME IN VARCHAR2, P_ISCOMPLETE IN CHAR, O_STATUS OUT CHAR);
+PROCEDURE P_Delete_TodoItem(P_ITEMID IN NUMBER, O_STATUS OUT CHAR);
+PROCEDURE P_Get_TodoItem(P_ITEMID IN NUMBER, O_ITEM_C OUT SYS_REFCURSOR);
+PROCEDURE P_Get_TodoItems(O_ITEMS_C OUT SYS_REFCURSOR);
+
+END PKG_TODO_API;
+/
+
+CREATE OR REPLACE PACKAGE BODY PBLHO.PKG_TODO_API
+AS
+
+PROCEDURE P_Create_TodoItem(P_ITEMNAME IN VARCHAR2, P_ISCOMPLETE IN CHAR, O_STATUS OUT CHAR)
+AS
+v_msg VARCHAR2(255);
+BEGIN
+  Insert Into PBLHO.TodoItem (ITEMNAME,ISCOMPLETE) values(P_ITEMNAME,P_ISCOMPLETE); 
+  COMMIT;
+  O_STATUS := 'C';
+  EXCEPTION
+    when others then
+    ROLLBACK; 
+    O_STATUS := 'F';
+    v_msg := SQLERRM; 
+    DBMS_OUTPUT.PUT_LINE('Error Inserting Data:'||v_msg);
+    RAISE;
+END P_Create_TodoItem;
+
+
+PROCEDURE P_Update_TodoItem(P_ITEMID IN NUMBER,P_ITEMNAME IN  VARCHAR2, P_ISCOMPLETE IN CHAR, O_STATUS OUT CHAR)
+AS
+v_msg VARCHAR2(255);
+BEGIN
+
+  Update PBLHO.TodoItem SET ITEMNAME=P_ITEMNAME, ISCOMPLETE=P_ISCOMPLETE WHERE ITEMID = P_ITEMID; 
+  COMMIT;
+  O_STATUS := 'U';
+  EXCEPTION
+    when others then
+    ROLLBACK; 
+    O_STATUS := 'F';
+    v_msg := SQLERRM; 
+    DBMS_OUTPUT.PUT_LINE('Error Updating Data:'||v_msg);
+    RAISE;
+  
+END P_Update_TodoItem;
+
+
+PROCEDURE P_Delete_TodoItem(P_ITEMID IN NUMBER, O_STATUS OUT CHAR)
+AS
+v_msg VARCHAR2(255);
+BEGIN
+
+  DELETE FROM PBLHO.TodoItem WHERE ITEMID = P_ITEMID; 
+  COMMIT;
+  O_STATUS := 'D';
+  EXCEPTION
+    when others then
+    ROLLBACK; 
+    O_STATUS := 'F';
+    v_msg := SQLERRM; 
+    DBMS_OUTPUT.PUT_LINE('Error Deleting Data:'||v_msg);
+    RAISE;
+  
+END P_Delete_TodoItem;
+
+
+
+PROCEDURE P_Get_TodoItem(P_ITEMID IN NUMBER, O_ITEM_C OUT SYS_REFCURSOR)
+AS
+v_msg VARCHAR2(255);
+BEGIN
+
+  OPEN O_ITEM_C FOR
+    SELECT ITEMID,ITEMNAME,ISCOMPLETE FROM PBLHO.TodoItem WHERE ITEMID = P_ITEMID;
+
+    EXCEPTION
+        when others then
+        v_msg := SQLERRM; 
+        DBMS_OUTPUT.PUT_LINE('Error Get Data:'||v_msg);
+        RAISE;
+        
+END P_Get_TodoItem;
+
+PROCEDURE P_Get_TodoItems(O_ITEMS_C OUT SYS_REFCURSOR)
+AS
+v_msg VARCHAR2(255);
+BEGIN
+
+    OPEN O_ITEMS_C FOR
+    SELECT ITEMID,ITEMNAME,ISCOMPLETE FROM PBLHO.TodoItem ORDER BY ITEMID;
+
+    EXCEPTION
+        when others then
+        v_msg := SQLERRM; 
+        DBMS_OUTPUT.PUT_LINE('Error Get Data:'||v_msg);
+        RAISE;
+        
+END P_Get_TodoItems;
+
+END PKG_TODO_API;
+/
+
+set serveroutput on;  
+Declare O_ITEMS_C SYS_REFCURSOR;
+BEGIN
+  PBLHO.PKG_TODO_API.P_Get_TodoItems(O_ITEMS_C);
+  --dbms_output.put_line(O_ITEMS_C);  --print value of new id
+END;

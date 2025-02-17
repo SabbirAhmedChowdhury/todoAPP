@@ -1,0 +1,183 @@
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\appsettings.Development.json
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\appsettings.json
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\TodoAPI.staticwebassets.runtime.json
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\TodoAPI.exe
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\TodoAPI.deps.json
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\TodoAPI.runtimeconfig.json
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\TodoAPI.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\TodoAPI.pdb
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\Oracle.ManagedDataAccess.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\System.Diagnostics.PerformanceCounter.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\System.DirectoryServices.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\System.DirectoryServices.Protocols.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.csproj.AssemblyReference.cache
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.AssemblyInfoInputs.cache
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.AssemblyInfo.cs
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.csproj.CoreCompileInputs.cache
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.TodoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoAPI.props
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoAPI.props
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoAPI.props
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets.build.json
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets.development.json
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\scopedcss\bundle\TodoAPI.styles.css
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.csproj.CopyComplete
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\refint\TodoAPI.dll
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.pdb
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.genruntimeconfig.cache
+F:\Personal\Assignment\TodoAPI\TodoAPI\obj\Debug\net7.0\ref\TodoAPI.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\appsettings.Development.json
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\appsettings.json
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\TodoAPI.staticwebassets.runtime.json
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\TodoAPI.exe
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\TodoAPI.deps.json
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\TodoAPI.runtimeconfig.json
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\TodoAPI.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\TodoAPI.pdb
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Oracle.ManagedDataAccess.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\System.Diagnostics.PerformanceCounter.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\System.DirectoryServices.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\System.DirectoryServices.Protocols.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.csproj.AssemblyReference.cache
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.AssemblyInfoInputs.cache
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.AssemblyInfo.cs
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.csproj.CoreCompileInputs.cache
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.TodoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoAPI.props
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoAPI.props
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoAPI.props
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets.build.json
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets.development.json
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\scopedcss\bundle\TodoAPI.styles.css
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.csproj.CopyComplete
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\refint\TodoAPI.dll
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.pdb
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.genruntimeconfig.cache
+F:\Personal\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\ref\TodoAPI.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\appsettings.Development.json
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\appsettings.json
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\TodoAPI.staticwebassets.runtime.json
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\TodoAPI.exe
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\TodoAPI.deps.json
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\TodoAPI.runtimeconfig.json
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\TodoAPI.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\TodoAPI.pdb
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Oracle.ManagedDataAccess.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\System.Diagnostics.PerformanceCounter.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\System.DirectoryServices.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\System.DirectoryServices.Protocols.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.csproj.AssemblyReference.cache
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.AssemblyInfoInputs.cache
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.AssemblyInfo.cs
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.csproj.CoreCompileInputs.cache
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets.build.json
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets.development.json
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.TodoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoAPI.props
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoAPI.props
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoAPI.props
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\scopedcss\bundle\TodoAPI.styles.css
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.csproj.Up2Date
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\refint\TodoAPI.dll
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.pdb
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\TodoAPI.genruntimeconfig.cache
+F:\Personal\Training\Sabbir Ahmed Chowdhury_3rd Phase\TodoAPI\TodoAPI\obj\Debug\net7.0\ref\TodoAPI.dll
